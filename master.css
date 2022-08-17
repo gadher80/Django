@@ -1,0 +1,54 @@
+\selected tag {
+    property: value;
+}
+
+h1,h4,ol {
+    color : blue;
+}
+
+h1 {
+    color : rgba(26, 252, 111,1);
+}
+
+div {
+    color : white;
+}
+
+h1 {
+    color :rgba(216, 252, 111,0.5);
+}
+
+body {
+    background: url(https://th.bing.com/th/id/R.b76330e6e48c823f4c1009af12b3c694?rik=9bL5HDN8r9luuA&riu=http%3a%2f%2fwww.tapeciarnia.pl%2ftapety%2fnormalne%2f224889_google.jpg&ehk=KtyweITDnVlIxTknyW0uGHlutM4FvXfJCak11p8XF6I%3d&risl=&pid=ImgRaw&r=0);
+    background-color: red;
+    border-color : white;
+    border-width: 10px;
+    border-style: double;
+}
+
+span {
+    background : black;
+    color: white;
+}
+
+.seconddiv {
+    color: red;
+    background-color: white;
+}
+
+#confirmid{
+    color: red;
+}
+
+#confirmid{
+    background-color: white;
+    color:Blue;
+    border-style: dotted;
+    border-width : 5px;
+
+}
+
+#FeedbackID {
+    color: white;
+    font-size : 22;
+}
