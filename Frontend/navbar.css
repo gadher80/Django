@@ -1,0 +1,54 @@
+.jumbotron{
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    color: black;
+    margin-top: 250px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+
+.row{
+
+    margin-top: 25px;
+    color: #66382A;
+}
+
+.coffeBox{
+
+    width: 200px;
+    height: 200px;
+}
+
+.CoffeImg{
+
+    width: 425px;
+    height: 350px;
+}
+body{
+
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.btn-secondary{
+
+    background-color: #66382A;
+    color: white;
+
+}
+
+.lead{
+    font-weight:400;
+    font-size: larger;
+    
+}
+
+hr{
+    border: 2px solid #66382A;
+    opacity: 1.0;
+}
